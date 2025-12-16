@@ -21,7 +21,7 @@ Download Hedera mainnet data for free via P2P networks—no AWS or GCP required.
 | 2024 | 7.78 TiB | [Download](./torrent/hedera-hashgraph-signatures-records-sidecars-2024.torrent) | [Magnet](./torrent/hedera-hashgraph-signatures-records-sidecars-2024.magnet) |
 | 2025 | 206.86 GiB | [Download](./torrent/hedera-hashgraph-signatures-records-sidecars-2025.torrent) | [Magnet](./torrent/hedera-hashgraph-signatures-records-sidecars-2025.magnet) |
 
-> **Note:** Data starts from September 13, 2019 although the Hedera mainnet public open access was [officially announced and formalized](https://hedera.com/blog/decentralized-applications-go-live-on-hedera-hashgraph-as-mainnet-opens-to-public) on September 16, 2019.
+> **Note:** Data starts from September 13, 2019 although the Hedera mainnet public open access was [officially announced and formalized](https://hedera.com/blog/decentralized-applications-go-live-on-hedera-hashgraph-as-mainnet-opens-to-public) on September 16, 2019. 2025 contains data up to 9 December 2025.
 
 ## IPFS Sharing (TODO)
 
