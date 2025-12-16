@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./archive-folders.sh 20 >> ./logs/archiving.log &
+
