@@ -11,7 +11,7 @@ Download Hedera mainnet data for free via P2P networks—no AWS or GCP required.
 
 ## Available Torrents
 
-| Year | Size | Torrent File | Magnet File 🧲 |
+| Year | Content Size | Torrent File | Magnet File 🧲 |
 |:----:|-----:|:------------:|:-----------:|
 | 2019 | 13.65 GiB | [Download](./torrent/hedera-hashgraph-signatures-records-sidecars-2019.torrent) | [Magnet](./torrent/hedera-hashgraph-signatures-records-sidecars-2019.magnet) |
 | 2020 | 224.63 GiB | [Download](./torrent/hedera-hashgraph-signatures-records-sidecars-2020.torrent) | [Magnet](./torrent/hedera-hashgraph-signatures-records-sidecars-2020.magnet) |
